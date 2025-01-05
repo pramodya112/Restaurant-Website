@@ -1,0 +1,11 @@
+{"order_number":"66aff59295a0b","items":[{"name":"sandwich","price":50,"quantity":1},{"name":"milk rice","price":100,"quantity":1},{"name":"Biriyani","price":100,"quantity":2}],"total_price":350,"date":"2024-08-04 23:41:38"}
+{"order_number":"66aff6f04f541","items":[{"name":"Biriyani","price":100,"quantity":1}],"total_price":100,"date":"2024-08-04 23:47:28"}
+{"order_number":"66aff7222c051","items":[{"name":"milk rice","price":100,"quantity":1},{"name":"roti","price":80,"quantity":1}],"total_price":180,"date":"2024-08-04 23:48:18"}
+{"order_number":"66aff885e942e","items":[{"name":"sandwich","price":50,"quantity":"1"},{"name":"Biriyani","price":100,"quantity":"1"}],"total_price":150,"date":"2024-08-04 23:54:13"}
+{"order_number":"66affe98deb66","items":[{"name":"String Hoppers","price":300,"quantity":"1"},{"name":"sandwich","price":50,"quantity":"1"},{"name":"roti","price":80,"quantity":1}],"total_price":430,"date":"2024-08-05 00:20:08"}
+{"order_number":"66b0054712a95","items":[{"name":"milk rice","price":100,"quantity":"1"},{"name":"paneer","price":300,"quantity":"1"},{"name":"suchi","price":400,"quantity":"1"}],"total_price":800,"date":"2024-08-05 00:48:39"}
+{"order_number":"66b00c57cf68a","items":[{"name":"sandwich","price":50,"quantity":4},{"name":"Biriyani","price":100,"quantity":1},{"name":"soup","price":1300,"quantity":1}],"total_price":1600,"date":"2024-08-05 01:18:47"}
+{"order_number":"66b065d43ebf4","items":[{"name":"Gulab Jab","price":200,"quantity":1}],"total_price":200,"date":"2024-08-05 07:40:36"}
+{"order_number":"66b1cdaa8713e","items":[{"name":"String Hoppers","price":300,"quantity":"2"},{"name":"Gulab Jab","price":200,"quantity":1}],"total_price":800,"date":"2024-08-06 09:15:54"}
+{"order_number":"66b1d1c8b531d","items":[{"name":"Gulab Jab","price":200,"quantity":3},{"name":"String Hoppers","price":300,"quantity":1},{"name":"hoppers","price":100,"quantity":1}],"total_price":1000,"date":"2024-08-06 09:33:28"}
+{"order_number":"66b1d6faa927a","items":[{"name":"String Hoppers","price":300,"quantity":1}],"total_price":300,"date":"2024-08-06 09:55:38"}
